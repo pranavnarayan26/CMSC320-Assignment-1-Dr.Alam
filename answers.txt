@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: It's a convenient method for managing large projects and their various components, as well as 
+        collaborating with others and integrating each others' work. 
