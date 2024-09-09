@@ -8,3 +8,11 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Aerospace Engineering - tracking the positions of satellites and determining areas of high debris to avoid, for example. 
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines histories of two branches, showing their divergences, while rebasing rewrites the 
+        history of one branch with the history of another. 
+
+        
+
