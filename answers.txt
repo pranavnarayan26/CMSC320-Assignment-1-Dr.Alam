@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Aerospace Engineering - tracking the positions of satellites and determining areas of high debris to avoid, for example. 
